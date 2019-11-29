@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00989fab-0546-4ece-a570-c6b480b05734" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/effects.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>window.location.href</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="03-dont-repeat-yourself" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03-dont-repeat-yourself" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../creative-scala-template-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00989fab-0546-4ece-a570-c6b480b05734" name="Default Changelist" comment="" />
+      <created>1559034545752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559034545752</updated>
+      <workItem from="1559034548043" duration="5907000" />
+      <workItem from="1559114088058" duration="1224000" />
+      <workItem from="1559290304684" duration="1009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8140000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34263232" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="RNConsole" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Questions/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Questions/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EplusLogo/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EplusLogo/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Benefits/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Benefits/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/Action/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/Action/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/TextSpan/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/TextSpan/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/rewards/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/rewards/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/rewards/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/rewards/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/TextualDisplay/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/experience-types/TextualDisplay/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Pagination/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Pagination/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Breadcrumbs/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Breadcrumbs/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Html/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Html/Head.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Html/Head.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Html/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistorySummary/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistorySummary/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/cbl/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/cbl/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/cbl/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/cbl/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-claim-form-legacy/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-claim-form-legacy/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupFooterContent/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupFooterContent/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-claim-form/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-claim-form/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-member-questions/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-member-questions/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-membership-info/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-membership-info/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/components/ui-action.component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/components/ui-action.component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/helpers.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/helpers.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-textual-display/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-track-on-sight/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-track-on-sight/fire-on-sight.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-track-on-sight/fire-on-sight.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-track-on-sight/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-fake-menu/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-fake-menu/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-deals/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-deals/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-hero/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-hero/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-select/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-select/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/ListItemPoints.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/ListItemSeparator.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/ListItemSeparator.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/EventHistoryList/ListItemPoints.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-dialog/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-dialog/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-infotip/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-infotip/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-rtm.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-rtm.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/global-header.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/global-header.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-module-provider.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/csrf.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-module-provider.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/csrf.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-eplushome.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/services/xs-eplushome.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/globals/redirects.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/globals/app.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/globals/app.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/globals/redirects.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/counter-animation.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/mock.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/counter-animation.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/page.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/csp.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/page.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/request.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/mock.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/browser.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/module.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/resources.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/warmup.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/module.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/warmup.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/browser.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/csp.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/utils/resources.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/module-provider/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/module-provider/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/guarantee-claim/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/guarantee-claim/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsAdvantages/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsAdvantages/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsSteps/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsSteps/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-tooltip/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/ui-tooltip/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/guarantee/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/guarantee/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/member/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/member/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/config.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/config.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupTitleContent/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupTitleContent/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPageIntro/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPageIntro/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-de/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-de/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-de/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-de/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-au/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-au/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-au/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-complete-au/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupSuccessPage/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupSuccessPage/styles.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupSuccessPage/styles.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupSuccessPage/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsInfoPage/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsInfoPage/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CSSLinks/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CSSLinks/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/BodyScript/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/BodyScript/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/track-click.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/TrackImpression.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/TrackImpression.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/track-click.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/tracking-body.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Tracking/tracking-body.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/GlobalHeader/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/GlobalHeader/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsStartbonus/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/RewardsStartbonus/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SvgSymbols/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SvgSymbols/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-coupon-select/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-coupon-select/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-points/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-points/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupErrorPage/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/SignupErrorPage/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-coupon/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-coupon/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-rewards/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-rewards/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-coverage/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-coverage/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-marketing-banner/component.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components/eplus-guarantee-marketing-banner/component.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPageAdditionalInfos/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPageAdditionalInfos/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Offers/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Offers/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/TrackOnSight/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/TrackOnSight/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Signin/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Signin/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/utils.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselControls.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselControls.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselItem.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselItem.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/shim.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselList.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/Carousel.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselList.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselDots.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/CarouselDots.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/shim.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/Carousel.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/Carousel/utils.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/InlineNoticeError/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/InlineNoticeError/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/points/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/points/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/points/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/points/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/I18nPreloader/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/I18nPreloader/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/PointsHistoryPage/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/PointsHistoryPage/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LoadingIndicator/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LoadingIndicator/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/styles-de.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/styles-au.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/content-au.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/content-de.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/styles-au.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/content-de.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/styles-de.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/content-au.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/components/SignupPageContent/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CsrfToken/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CsrfToken/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CsrfHiddenInput/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/CsrfHiddenInput/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/components/new-guest-page/browser-init.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/components/new-guest-page/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/components/new-guest-page/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/home/components/new-guest-page/browser-init.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPage/index.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/components-react/LandingPage/index.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/content-de.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/content-au.js" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/content-de.js.map" />
+        <option value="$PROJECT_DIR$/../../../eplushome/src/pages/signup-content/content-au.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/effects.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
