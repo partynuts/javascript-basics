@@ -2,85 +2,416 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="982565e3-b90c-4b8a-b357-4203dc68e863" name="Default Changelist" comment="add new sessions&#10;&#10;# Conflicts:&#10;#&#9;data-types/01-linked-lists/src/singly-linked-list.js&#10;#&#9;data-types/01-linked-lists/test/singly-linked-list.test.js">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/javascript-basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.idea/03-dont-repeat-yourself.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/01-linked-lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/src/singly-linked-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/controllers/task-lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/controllers/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/models/task-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/src/models/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/test/controllers/task-lists.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/test/controllers/tasks.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/01-restful-apis/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/controllers/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/controllers/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/index.sequelize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/models/task.db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/models/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/public/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/todo-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/views/tasks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/views/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/01-model-view-controller/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/controllers/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/controllers/task-lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/controllers/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/models/task-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/models/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/public/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/public/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/views/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/views/task-lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/views/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/views/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/02-todo-app-frontend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/03-dont-repeat-yourself/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/architecture/04-solid/README:md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/src/doubly-linked-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/test/doubly-linked-list.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-types/01-linked-lists/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/01-docker-kubernetes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/01- manual-approach/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/01- manual-approach/db-helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/01- manual-approach/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/01- manual-approach/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/01- manual-approach/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/migrations/20200330052732-create-user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/seeders/20200330053135-demo-users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/02-automatic-approach/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-ops/02-database-migrations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/components/NewTaskForm/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/components/Task/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/components/TaskList/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/01-react-basics/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.build/components/requirejs/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.build/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.build/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.nodemonignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/.yo-rc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/config/development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/controllers/tasks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/errors/404.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/errors/500.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/errors/503.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/index.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/layouts/master.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/locales/US/en/tasks.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/middlewares/sequelize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/models/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/LICENSE.DOCS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/bin/atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/browser-atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/node-atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/atob/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/browser.amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/browser.browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/browser.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/caching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/defaultcontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/apply-default-content.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/default-content-with-layout.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/layout.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/simple.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/unrequested-content.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/AR/es/world.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/apply-default-content.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/default-content-with-layout.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/layout.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/simple.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/unrequested-content.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/US/en/world.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/templates/apply-default-content.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/templates/default-content-with-layout.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/templates/layout.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/templates/simple.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/fixtures/templates/unrequested-content.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/interface.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-makara-helpers/test/locale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/test/metadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-message-helper/test/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.nyc_output/59291.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.nyc_output/59293.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/output.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/test/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/dust-usecontent-helper/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/is-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/is-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/is-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/is-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/is-buffer/test/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/isarray/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/lib/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/test/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/jsonify/test/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/object-assign/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/object-assign/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/object-assign/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/object-assign/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/requirejs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/requirejs/bin/r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/requirejs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/requirejs/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/string_decoder/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/string_decoder/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/string_decoder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/string_decoder/lib/string_decoder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/string_decoder/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/bin/tape" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/fail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/nested.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/nested_fail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/not_enough.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/static/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/static/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/throw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/timing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/too_many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/example/two.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/lib/default_stream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/lib/results.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/lib/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/readme.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/add-subtest-async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/browser/asserts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/child_ordering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/circular-things.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/deep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/exit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/exit/fail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/exit/ok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/exit/second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/exit/too_few.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/fail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/max_listeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/max_listeners/source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/nested-sync-noplan-noend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/nested.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/plan_optional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/skip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/subtest_and_async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/subtest_plan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/throw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/tape/test/too_many.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/benchmark/0.3.1/toposort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/benchmark/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/benchmark/general.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/benchmark/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/build/toposort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/build/toposort.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/toposort-class/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/underscore/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/underscore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/underscore/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/underscore/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/underscore/underscore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/components/util-deprecate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/css/app.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/errors/404.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/errors/500.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/errors/503.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/index.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/layouts/master.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/public/templates/tasks.dust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/clean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/copy-browser-modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/copyto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/dustjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/eslint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/mochacli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/tasks/requirejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frameworks/02-kraken-basics/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/01-cookies/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/01-cookies/handle-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/01-cookies/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/01-cookies/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/01-cookies/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/controllers/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/controllers/sessions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/02-sessions/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/03-open-source-work/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/03-open-source-work/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/03-open-source-work/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/03-open-source-work/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/03-open-source-work/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala/01-for-yield/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala/02-traits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/test/quotes.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/wdio.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/bin/www-pubsub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/middlewares/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/middlewares/cache.solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/middlewares/tracking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/models/joke.caching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/models/joke.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/models/redis-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/routes/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/views/error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/views/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/views/layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/01-redis/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/02-elasticsearch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/02-elasticsearch/bin/import-wiki-dump.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/02-elasticsearch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/02-elasticsearch/sample.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/02-elasticsearch/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/src/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/src/fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/test/fibonacci.jest.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/test/fibonacci.jest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/test/fibonacci.mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/test/fibonacci.mocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-test-driven-development/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testing/01-test-driven-development/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dependency-injection/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing/02-dependency-injection/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dependency-injection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/02-dependency-injection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dependency-injection/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testing/02-dependency-injection/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dependency-injection/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/02-dependency-injection/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-dependency-injection/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testing/02-dependency-injection/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/src/quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/src/quotes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/test/index.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes-outline/mock.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes-outline/spy.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes-outline/stub.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes-outline/stub.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes/mock.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes/spy.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/test/quotes/stub.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-stubs-mocks-spies/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testing/03-stubs-mocks-spies/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/src/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/src/graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/test/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/test/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/test/graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/test/graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/test/ui/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/test/ui/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x-fibonacci-plot/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/testing/0x-fibonacci-plot/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-types/01-linked-lists/src/singly-linked-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-types/01-linked-lists/src/singly-linked-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-types/01-linked-lists/test/singly-linked-list.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-types/01-linked-lists/test/singly-linked-list.test.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/misc/01-cookies/handle-form.js" />
-        <option value="$PROJECT_DIR$/misc/01-cookies/sync-form.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="823" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javascript-basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript-basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript-basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascript-basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascript-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-              <item name="01-cookies" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -92,23 +423,23 @@
       <recent name="$PROJECT_DIR$/misc/01-cookies" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SbtLocalSettings">
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../creative-scala-template-master" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -126,52 +457,8 @@
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6666000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-955" y="-929" width="1440" height="808" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="RNConsole" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286908" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/misc/01-cookies/index.html" />
-    <entry file="file://$PROJECT_DIR$/misc/01-cookies/package.json" />
-    <entry file="file://$PROJECT_DIR$/misc/01-cookies/README.md" />
-    <entry file="file://$PROJECT_DIR$/misc/01-cookies/handle-form.js" />
-    <entry file="file://$PROJECT_DIR$/misc/01-cookies/sync-form.js" />
   </component>
   <component name="masterDetails">
     <states>
